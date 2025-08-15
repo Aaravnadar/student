@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm Aarav Nadar
+title: I'm Aarav
 hide: true
 ---
 
