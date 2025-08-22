@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About ME
+title: About
 permalink: /about/
 comments: true
 ---
@@ -101,16 +101,16 @@ Flags are made using Wikipedia images
 
 Here is what I did at those places
 
-- 🏫 Elemantry school was done In India
-- 🏫 Middle school at Oak Valley
-- 🎓 Currently in Highschool Del Norte class of 29
+- 🏫 Went to Elementary School in Lateraza, Westwood. Then went to Delsur elementary to finish my elementary school years.
+- 🏫 Middle School was in Oak Valley.
+- 🎓 Currently in Highschool in Del Norte.
+
 
 ### Culture, Family, and Fun
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
+- My mother told me that I was Indian, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
