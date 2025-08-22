@@ -61,9 +61,6 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
-        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -97,7 +94,7 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life
+### Journey Throughout my Entire Life 
 
 Here is what I did at those places
 
@@ -112,7 +109,6 @@ Everything for me, as for many others, revolves around family and faith.
 
 - My mother told me that I was Indian. here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
 - I live with a happy family of 4. My mom, my dad, my brother, and I.
-- The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
