@@ -42,7 +42,7 @@ Hi! My name is Aarav Nadar.
 <a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
     Snake Game
 </a>
-<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
+<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #210ef6ff">
     <span style="color: #000000">Turtle</span>
 </a>
 <div>
